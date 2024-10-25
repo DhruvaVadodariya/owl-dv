@@ -16,7 +16,9 @@ ul,li,a{
     color: white;
     font-family: "Lato", sans-serif;
 }
-
+.navi{
+    margin-right: 180px;
+}
 h3{
     font-family: "Lato", sans-serif;
     font-style: italic;
@@ -229,7 +231,6 @@ p{
         .navi{
             margin-right: 0;
         }
-        
         .li23{
             font-size: 28px;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;

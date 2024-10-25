@@ -231,6 +231,16 @@ p{
         .navi{
             margin-right: 0;
         }
+        .content{
+            height: 465px;
+        }
+        .contentp{
+            height: 135px;
+            padding: 0px 35px;
+        }
+        .contenth{
+            margin-left: 95px;
+        }
         .li23{
             font-size: 28px;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;

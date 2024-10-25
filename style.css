@@ -42,7 +42,8 @@ h3{
         display: none;
     }
     .content > .ha{
-        margin-left: 85px;
+        margin-left: 0px;
+        margin-top: -65px;
     }
     .main{
         flex-direction: column;
@@ -51,7 +52,7 @@ h3{
         align-items: center;
     }
     h3{
-        padding-left: 120px;
+        padding-left: 10px;
     }
 }
 .li2{
@@ -209,6 +210,9 @@ p{
     font-weight: lighter;color: rgb(109, 212, 209);
     padding-left: 330px;
 }
+.contentp{
+    width: 635px;
+}
 .li24{
     padding-left: 600px;
     padding-top: 40px;
@@ -232,14 +236,17 @@ p{
             margin-right: 0;
         }
         .content{
-            height: 465px;
+            height: 350px;
         }
         .contentp{
             height: 135px;
-            padding: 0px 35px;
+            padding: 0px 10px;
+            font-size: 20px;
+            width: 405px;
+            padding-top: 25px;
         }
         .contenth{
-            margin-left: 95px;
+            margin-left: 10px;
         }
         .li23{
             font-size: 28px;
